@@ -1,2 +1,2 @@
-# HTML_Resume_Template
+# HTML_Curriculum
  
